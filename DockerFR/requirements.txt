@@ -1,9 +1,10 @@
-fastapi
+numpy==1.24.3
+onnxruntime
+opencv-python-headless
+Pillow
+insightface
 pydantic
+fastapi
 uvicorn[standard]
 python-multipart
-opencv-python-headless
-numpy
-insightface
-onnxruntime
 torch
